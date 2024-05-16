@@ -25,9 +25,9 @@ _Al ingresar al Sitio Web, se puede observar un completo Portafolio personal._
  Sistema de lectura del Sitio, facil e intuitivo.
 ```
 
-### Instalación 🔧
+### Pagina de GitHub 🔧
 
-_Para poder observar el Sitio Web, no se senecita ninguna instalacion previa_
+_ https://juanjodiamond.github.io/Alura-Challenge-Portafolio/ _
 
 ```
 No se necesita instalacion alguna.
