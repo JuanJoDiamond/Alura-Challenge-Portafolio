@@ -68,7 +68,7 @@ _El equipo de Alura Latam como proyecto y Juan Rodriguez_
     <br />
     <br />
     <a href="#">
-      <img src="https://userimg-assets.customeriomail.com/images/client-env-113072/1705928205316_Alura%20Challenges_01HMRKX9AM9BT14FAE1STANK7Y.png" alt="Proyecto">
+      <img src="https://raw.githubusercontent.com/JuanJoDiamond/Alura-Challenge-Portafolio/main/assets/portfolio.png" alt="Insignia">
     </a>
   </h1>
 </div>
