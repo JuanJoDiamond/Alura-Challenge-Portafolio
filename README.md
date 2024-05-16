@@ -60,6 +60,15 @@ _El equipo de Alura Latam como proyecto y Juan Rodriguez_
 * **Jeanmarie Quijada** - *Trabajo Inicial*
 * **Juan Rodriguez** - *Desarrollo JavaScript*
 
-## Licencia 📄
+## Insignia 📄
 
-Este proyecto está bajo la Licencia de Juan Rodriguez - Kiamond Design 
+<div align="center">
+  <h1 align="center">
+    Insignia de Trabajo Realizado - Alura Latam
+    <br />
+    <br />
+    <a href="#">
+      <img src="https://userimg-assets.customeriomail.com/images/client-env-113072/1705928205316_Alura%20Challenges_01HMRKX9AM9BT14FAE1STANK7Y.png" alt="Proyecto">
+    </a>
+  </h1>
+</div>
