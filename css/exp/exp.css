@@ -1,0 +1,13 @@
+.experience {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(to bottom, #666, #888, #aaa, #ccc); 
+}
+
+.experience__section__title {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+
+}

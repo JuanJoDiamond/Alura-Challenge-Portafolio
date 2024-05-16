@@ -1,0 +1,23 @@
+footer {
+    margin-top: 10px;
+    padding: 20px;
+    text-align: center;
+    height: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 40px;
+    }
+
+.copyright{
+    color: #2a2828;
+    }
+
+.linked:hover {
+    color: var(--Font);
+    opacity: 0.8;
+}
+
+.gitHub:hover {
+    color: var(--Font);
+    opacity: 0.6;
+}

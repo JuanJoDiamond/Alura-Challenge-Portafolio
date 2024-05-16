@@ -1,0 +1,76 @@
+/*En este desafío nosostros gustaríamos que ustedes intentaran utilizar la metodología BEM. 
+BEM (Bloque, Elemento, Modificador) es un enfoque basado en componentes para el 
+desarrollo web. La idea detrás de esto es dividir la interfaz de usuario en bloques
+independientes. Esto hace que el desarrollo de la interfaz sea fácil y rápido, incluso
+con una interfaz de usuario compleja, y permite la reutilización del código existente sin copiar y pegar.*/
+
+@import url("./css/about/about.css");
+@import url("./css/about/about__container.css");
+@import url("./css/academic/academic.css");
+@import url("./css/academic/academicCourses.css");
+@import url("./css/contacto/contacto.css");
+@import url("./css/contacto/form__text.css");
+@import url("./css/contacto/form--esquema.css");
+@import url("./css/exp/exp.css");
+@import url("./css/exp/exp__box.css");
+@import url("./css/footer/footer.css");
+@import url("./css/hobbies/hobbies.css");
+@import url("./css/hobbies/hobbies__line.css");
+@import url("./css/menu/menu-header.css");
+@import url("./css/menu/menu-nav.css");
+@import url("./css/menu/menu.css");
+@import url("./css/skills/skills.css");
+@import url("./css/skills/skills__line.css");
+@import url("./css/titile/title.css");
+@import url("./css/titile/title-img.css");
+@import url("./css/titile/title__container.css" );
+
+:root {
+/* Inserta la variable de los otros colores inspeccionando el exemplo de figma */
+/*Se esforce para trabalhar com variáveis, é uma dica profissional valiosa*/
+    --color-primario: #0078E0;
+    --color-sec: #1700E0;
+    --color-ter: #00BFE0;
+    --color-cuarto: #F2F2F2;
+    --color-quinto: #0D0D0D;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Raleway';
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+
+}
+
+ol, ul, li { 
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: var(--cor-de-link);
+}
+
+h1, h2,h3, h4, h5, p, input, button, textarea {
+    color: var(--color-quinto);
+    border: none;
+    outline: none;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: var(--cor-de-fundo);
+    font-family: 'Raleway';
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+}
+.cabecera--titulo {
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    color: #7f7f88;
+}
